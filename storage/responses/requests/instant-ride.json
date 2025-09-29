@@ -1,0 +1,241 @@
+{
+    "success": true,
+    "message": "created_instant_ride_successfully",
+    "data":
+    {
+        "id": "c8f51cff-a6e0-4c01-8feb-6bdcd47e0ca0",
+        "request_number": "REQ_1731847814",
+        "ride_otp": null,
+        "is_later": false,
+        "user_id": 9,
+        "service_location_id": "45c8948b-73dd-4557-af3c-a3dd62cd35b6",
+        "trip_start_time": "26th Nov 04:38 PM",
+        "arrived_at": "26th Nov 04:38 PM",
+        "accepted_at": "26th Nov 04:38 PM",
+        "completed_at": null,
+        "is_driver_started": 1,
+        "is_driver_arrived": 1,
+        "updated_at": "26th Nov 04:38 PM",
+        "is_trip_start": 1,
+        "total_distance": "0.00",
+        "total_time": 0,
+        "is_completed": 0,
+        "is_cancelled": 0,
+        "cancel_method": "0",
+        "payment_opt": "1",
+        "is_paid": 0,
+        "user_rated": 0,
+        "driver_rated": 0,
+        "unit": "KM",
+        "zone_type_id": "9f2f70cf-68ee-41eb-8639-a03af9b5f1f5",
+        "vehicle_type_id": "103e6158-a844-46d2-a746-5748051709a0",
+        "vehicle_type_name": "Sedan",
+        "vehicle_type_image": "http://localhost/new_vue_tagxi/public/storage/uploads/types/images/vnvOHLDT6tzlER4flbXOn6mxaudalFpbPqkce22A.jpeg",
+        "car_make_name": "dkw sf",
+        "car_model_name": "subtract",
+        "car_color": "since",
+        "car_number": "flash",
+        "pick_lat": 11.07683613,
+        "pick_lng": 77.01544762,
+        "drop_lat": 11.0589535,
+        "drop_lng": 76.9966732,
+        "pick_address": "5/36, FCI Nagar, Chandar Nagar, Coimbatore, Tamil Nadu 641035, India",
+        "drop_address": "265  Saravanampatti Siranandha Puram Tamil Nadu India 641035",
+        "pickup_poc_name": null,
+        "pickup_poc_mobile": null,
+        "drop_poc_name": null,
+        "drop_poc_mobile": null,
+        "pickup_poc_instruction": null,
+        "drop_poc_instruction": null,
+        "requested_currency_code": "INR",
+        "requested_currency_symbol": "₹",
+        "user_cancellation_fee": 0,
+        "is_rental": false,
+        "rental_package_id": null,
+        "is_out_station": 0,
+        "return_time": null,
+        "is_round_trip": null,
+        "rental_package_name": "-",
+        "show_drop_location": false,
+        "request_eta_amount": 200,
+        "show_request_eta_amount": true,
+        "offerred_ride_fare": 0,
+        "accepted_ride_fare": 0,
+        "is_bid_ride": 0,
+        "ride_user_rating": 0,
+        "ride_driver_rating": 0,
+        "if_dispatch": false,
+        "goods_type": "-",
+        "goods_type_quantity": null,
+        "converted_trip_start_time": "26th Nov 04:38 PM",
+        "converted_arrived_at": "26th Nov 04:38 PM",
+        "converted_accepted_at": "26th Nov 04:38 PM",
+        "converted_completed_at": null,
+        "converted_cancelled_at": null,
+        "converted_created_at": "26th Nov 04:38 PM",
+        "payment_type": "cash,online,wallet",
+        "discounted_total": null,
+        "poly_line": null,
+        "is_pet_available": 0,
+        "is_luggage_available": 0,
+        "instant_ride": 0,
+        "is_parcel": 0,
+        "show_otp_feature": true,
+        "completed_ride": false,
+        "later_ride": false,
+        "cancelled_ride": false,
+        "ongoing_ride": true,
+        "trip_start_time_with_date": "26/11/2024",
+        "arrived_at__with_date": "26/11/2024",
+        "accepted_at__with_date": "26/11/2024",
+        "completed_at_with_date": null,
+        "cancelled_at_with_date": null,
+        "createded_at_with_date": "26/11/2024",
+        "bidding_low_percentage": "10",
+        "bidding_high_percentage": "50",
+        "maximum_time_for_find_drivers_for_regular_ride": 300,
+        "zone_name": "World",
+        "free_waiting_time_in_mins_before_trip_start": 5,
+        "free_waiting_time_in_mins_after_trip_start": 5,
+        "waiting_charge": 740,
+        "payment_type_string": "cash",
+        "cv_trip_start_time": "04:38 PM",
+        "cv_completed_at": null,
+        "cv_created_at": "04:38 PM",
+        "transport_type": "taxi",
+        "payment_gateways": [
+            {
+                "gateway": "flutterwave",
+                "enabled": false,
+                "image": "http://restart.local/assets/payment_gateway/flutterwave.jpeg",
+                "url": "http://localhost/new_vue_tagxi/public/flutterwave"
+            },
+            {
+                "gateway": "mercadepago",
+                "enabled": false,
+                "image": "http://restart.local/assets/payment_gateway/mercadepago.png",
+                "url": "http://localhost/new_vue_tagxi/public/mercadepago"
+            },
+            {
+                "gateway": "paypal",
+                "enabled": false,
+                "image": "http://restart.local/assets/payment_gateway/paypal.png",
+                "url": "http://localhost/new_vue_tagxi/public/paypal"
+            },
+            {
+                "gateway": "paystack",
+                "enabled": false,
+                "image": "http://restart.local/assets/payment_gateway/paystack.jpeg",
+                "url": "http://localhost/new_vue_tagxi/public/paystack"
+            },
+            {
+                "gateway": "razorpay",
+                "enabled": false,
+                "image": "http://restart.local/assets/payment_gateway/Razor.jpeg",
+                "url": "http://localhost/new_vue_tagxi/public/razorpay"
+            },
+            {
+                "gateway": "stripe",
+                "enabled": false,
+                "image": "http://restart.local/assets/payment_gateway/stripe.jpeg",
+                "url": "http://localhost/new_vue_tagxi/public/stripe"
+            },
+            {
+                "gateway": "khalti",
+                "enabled": false,
+                "image": "http://restart.local/assets/payment_gateway/khalti.png",
+                "url": "http://localhost/new_vue_tagxi/public/khalti"
+            }
+        ],
+        "requestStops": {
+            "data": []
+        },
+        "requestProofs": {
+            "data": []
+        },
+        "userDetail": {
+            "data": {
+                "id": 9,
+                "name": "Nakul",
+                "gender": "male",
+                "last_name": null,
+                "username": null,
+                "email": "nakul@user.com",
+                "mobile": "+916382351281",
+                "profile_picture": "http://restart.local/assets/images/Male_default_image.png",
+                "active": 1,
+                "email_confirmed": 0,
+                "mobile_confirmed": 1,
+                "last_known_ip": null,
+                "last_login_at": null,
+                "rating": 5,
+                "no_of_ratings": 2,
+                "refferal_code": "2bXHb4",
+                "currency_code": "INR",
+                "currency_symbol": "₹",
+                "currency_pointer": "ltr",
+                "country_code": "IN",
+                "show_rental_ride": true,
+                "is_delivery_app": false,
+                "fcm_token": "cXB7SBEnTWuIg9_MS3WMia:APA91bF2B6k8W3SR6UIgdU-pUw6zJmiJKaE0ttjKRvqwgOf9MJ9zn58k1oQ_oapDHv6ZUqFSU3N0ceHAg1klgqL4Yi0lU2H_6NBcDq4Pcud1rdYfRAPC01I",
+                "show_ride_later_feature": true,
+                "authorization_code": null,
+                "enable_modules_for_applications": "taxi",
+                "contact_us_mobile1": "0000000000",
+                "contact_us_mobile2": "0000000000",
+                "contact_us_link": "https://tagxi-landing.ondemandappz.com/",
+                "show_wallet_money_transfer_feature_on_mobile_app": "1",
+                "show_bank_info_feature_on_mobile_app": "1",
+                "show_wallet_feature_on_mobile_app": "1",
+                "notifications_count": 1,
+                "referral_comission_string": "Refer a friend and earn₹",
+                "user_can_make_a_ride_after_x_miniutes": "30",
+                "maximum_time_for_find_drivers_for_regular_ride": 300,
+                "maximum_time_for_find_drivers_for_bitting_ride": "5",
+                "enable_pet_preference_for_user": "1",
+                "enable_luggage_preference_for_user": "1",
+                "bidding_amount_increase_or_decrease": "10",
+                "show_ride_without_destination": "1",
+                "enable_country_restrict_on_map": "0",
+                "conversation_id": "bb81d8bd-5138-4726-83f4-4903393c861a",
+                "map_type": "open_street_map",
+                "has_ongoing_ride": true,
+                "completed_ride_count": 2,
+                "sos": {
+                    "data": [
+                        {
+                            "id": "006ba4ca-1c6f-41e9-acad-3c65a13eaa82",
+                            "name": "Emergency",
+                            "number": "108",
+                            "user_type": "admin",
+                            "status": false
+                        }
+                    ]
+                },
+                "bannerImage": {
+                    "data": [
+                        {
+                            "image": "http://localhost/new_vue_tagxi/public/storage/uploads/banner/banner-image/9VOPWIRcxdEqVxGddEU0xrHsA0ihQclMbUCLCSN0.png"
+                        },
+                        {
+                            "image": "http://localhost/new_vue_tagxi/public/storage/uploads/banner/banner-image/1yoyFxUt1Pbla5iu4ovgZ6A3hUlKiI8DxBIwwxK6.png"
+                        }
+                    ]
+                },
+                "wallet": {
+                    "data": {
+                        "id": "aa8b9613-028d-43b7-9972-ccd4c0da77c6",
+                        "user_id": 9,
+                        "amount_added": 100,
+                        "amount_balance": 100,
+                        "amount_spent": 0,
+                        "currency_symbol": "₹",
+                        "currency_code": "INR",
+                        "created_at": "28th Oct 11:39 PM",
+                        "updated_at": "25th Nov 06:33 PM"
+                    }
+                }
+            }
+        }
+    }
+}

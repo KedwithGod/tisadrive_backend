@@ -1,0 +1,14 @@
+{
+    "success": true,
+    "message": "success",
+    "data": {
+        "data": [
+            {
+                "id": 1,
+                "lang": "en",
+                "name": "English",
+                "default_status": 1
+            }
+        ]
+    }
+}

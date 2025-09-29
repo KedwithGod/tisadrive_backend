@@ -1,0 +1,43 @@
+{
+    "success": true,
+    "data": [
+        {
+            "id": 20,
+            "name": "Nakul",
+            "email": "driver3@nakul.com",
+            "owner_id": "62e99924-4e59-48d4-a378-b3ec25e482cd",
+            "mobile": "+917438245845",
+            "profile_picture": "http://restart.local/assets/images/Male_default_image.png",
+            "active": false,
+            "fleet_id": null,
+            "approve": false,
+            "available": false,
+            "uploaded_document": false,
+            "declined_reason": null,
+            "service_location_id": "8841c737-357f-4f9a-ad8d-f585504e0694",
+            "vehicle_type_id": null,
+            "vehicle_type_name": null,
+            "vehicle_type_icon": null,
+            "car_make": null,
+            "car_model": null,
+            "car_make_name": null,
+            "car_model_name": null,
+            "car_color": null,
+            "driver_lat": null,
+            "driver_lng": null,
+            "car_number": null,
+            "rating": 0,
+            "no_of_ratings": 0,
+            "timezone": null,
+            "refferal_code": "BfSSc9",
+            "company_key": null,
+            "show_instant_ride": true,
+            "currency_symbol": "₹",
+            "currency_code": "INR",
+            "languages": null,
+            "total_earnings": 0,
+            "current_date": "2024-11-25",
+            "completed_ride_count": 0
+        }
+    ]
+}

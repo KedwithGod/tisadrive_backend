@@ -1,0 +1,122 @@
+{
+    "success": true,
+    "message": "success",
+    "data": [
+        {
+            "id": 1,
+            "package_name": "1 hr 5KM",
+            "description": "Something Something",
+            "short_description": "Best ride for travel",
+            "user_wallet_balance": 100,
+            "currency": "$",
+            "currency_name": "ARS",
+            "max_price": 500,
+            "min_price": 500,
+            "typesWithPrice": {
+                "data": [
+                    {
+                        "zone_type_id": "5cd8ed19-5725-4f82-a8a1-d92d9a5d24ca",
+                        "type_id": "e42b124a-d309-4484-8dcd-f2b6cbc6b9f7",
+                        "name": "Hatchback",
+                        "icon": "https://restart.ondemandappz.com/storage/uploads/types/images/RpTI3AXc1ABbsyPrqLicWwJhVd66z2CPaF70Rkbu.png",
+                        "capacity": 4,
+                        "currency": "$",
+                        "unit": 1,
+                        "unit_in_words": "Km",
+                        "distance_price_per_km": "5",
+                        "time_price_per_min": "5",
+                        "free_distance": "5",
+                        "free_min": "0",
+                        "payment_type": "cash,online,wallet",
+                        "fare_amount": 500,
+                        "description": "Compact joint family car",
+                        "short_description": "Compact",
+                        "supported_vehicles": null,
+                        "is_default": false,
+                        "discounted_total": 0,
+                        "has_discount": false,
+                        "promocode_id": null,
+                        "user_wallet_balance": 100
+                    },
+                    {
+                        "zone_type_id": "9f2f70cf-68ee-41eb-8639-a03af9b5f1f5",
+                        "type_id": "103e6158-a844-46d2-a746-5748051709a0",
+                        "name": "Sedan",
+                        "icon": "https://restart.ondemandappz.com/storage/uploads/types/images/vnvOHLDT6tzlER4flbXOn6mxaudalFpbPqkce22A.jpeg",
+                        "capacity": 4,
+                        "currency": "$",
+                        "unit": 1,
+                        "unit_in_words": "Km",
+                        "distance_price_per_km": "5",
+                        "time_price_per_min": "5",
+                        "free_distance": "5",
+                        "free_min": "0",
+                        "payment_type": "cash,online,wallet",
+                        "fare_amount": 500,
+                        "description": "Compact and premium four Wheeler",
+                        "short_description": "Sedan Type",
+                        "supported_vehicles": null,
+                        "is_default": false,
+                        "discounted_total": 0,
+                        "has_discount": false,
+                        "promocode_id": null,
+                        "user_wallet_balance": 100
+                    }
+                ]
+            }
+        },
+        {
+            "id": 6,
+            "package_name": "3 hour package",
+            "description": "auto with carrage",
+            "short_description": "auto with carrage",
+            "user_wallet_balance": 100,
+            "currency": "$",
+            "currency_name": "ARS",
+            "max_price": 900,
+            "min_price": 300,
+            "typesWithPrice": {
+                "data": [
+                    {
+                        "zone_type_id": "5cd8ed19-5725-4f82-a8a1-d92d9a5d24ca",
+                        "type_id": "e42b124a-d309-4484-8dcd-f2b6cbc6b9f7",
+                        "name": "Hatchback",
+                        "icon": "https://restart.ondemandappz.com/storage/uploads/types/images/RpTI3AXc1ABbsyPrqLicWwJhVd66z2CPaF70Rkbu.png",
+                        "capacity": 4,
+                        "currency": "$",
+                        "unit": 1,
+                        "unit_in_words": "Km",
+                        "distance_price_per_km": "5",
+                        "time_price_per_min": "5",
+                        "free_distance": "5",
+                        "free_min": "0",
+                        "payment_type": "cash,online,wallet",
+                        "fare_amount": 600,
+                        "description": "Compact joint family car",
+                        "short_description": "Compact",
+                        "supported_vehicles": null,
+                        "is_default": false,
+                        "discounted_total": 0,
+                        "has_discount": false,
+                        "promocode_id": null,
+                        "user_wallet_balance": 100
+                    }
+                ]
+            }
+        },
+        {
+            "id": 8,
+            "package_name": "1hr 30mins",
+            "description": "Best Ride for trvel",
+            "short_description": "Best ride for travel",
+            "user_wallet_balance": 100,
+            "currency": "$",
+            "currency_name": "ARS",
+            "max_price": null,
+            "min_price": null,
+            "typesWithPrice": {
+                "data": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,759 @@
+
+   Illuminate\Database\QueryException 
+
+  SQLSTATE[HY000] [2002] Connection refused (Connection: mysql, SQL: select table_name as `name`, (data_length + index_length) as `size`, table_comment as `comment`, engine as `engine`, table_collation as `collation` from information_schema.tables where table_schema = 'all-in-one' and table_type in ('BASE TABLE', 'SYSTEM VERSIONED') order by table_name)
+
+  at /usr/share/nginx/html/Admin-Panel-1.7.1/vendor/laravel/framework/src/Illuminate/Database/Connection.php:829
+    825▕                     $this->getName(), $query, $this->prepareBindings($bindings), $e
+    826▕                 );
+    827▕             }
+    828▕ 
+  ➜ 829▕             throw new QueryException(
+    830▕                 $this->getName(), $query, $this->prepareBindings($bindings), $e
+    831▕             );
+    832▕         }
+    833▕     }
+
+  1   [internal]:0
+      Illuminate\Foundation\Application::Illuminate\Foundation\{closure}()
+      [2m+19 vendor frames [22m
+
+  21  /usr/share/nginx/html/Admin-Panel-1.7.1/app/Providers/AppServiceProvider.php:51
+      Illuminate\Support\Facades\Facade::__callStatic()
+
+
+   Illuminate\Database\QueryException 
+
+  SQLSTATE[HY000] [2002] Connection refused (Connection: mysql, SQL: select table_name as `name`, (data_length + index_length) as `size`, table_comment as `comment`, engine as `engine`, table_collation as `collation` from information_schema.tables where table_schema = 'all-in-one' and table_type in ('BASE TABLE', 'SYSTEM VERSIONED') order by table_name)
+
+  at /usr/share/nginx/html/Admin-Panel-1.7.1/vendor/laravel/framework/src/Illuminate/Database/Connection.php:829
+    825▕                     $this->getName(), $query, $this->prepareBindings($bindings), $e
+    826▕                 );
+    827▕             }
+    828▕ 
+  ➜ 829▕             throw new QueryException(
+    830▕                 $this->getName(), $query, $this->prepareBindings($bindings), $e
+    831▕             );
+    832▕         }
+    833▕     }
+
+  1   [internal]:0
+      Illuminate\Foundation\Application::Illuminate\Foundation\{closure}()
+      [2m+19 vendor frames [22m
+
+  21  /usr/share/nginx/html/Admin-Panel-1.7.1/app/Providers/AppServiceProvider.php:51
+      Illuminate\Support\Facades\Facade::__callStatic()
+
+
+   Illuminate\Database\QueryException 
+
+  SQLSTATE[HY000] [2002] Connection refused (Connection: mysql, SQL: select table_name as `name`, (data_length + index_length) as `size`, table_comment as `comment`, engine as `engine`, table_collation as `collation` from information_schema.tables where table_schema = 'all-in-one' and table_type in ('BASE TABLE', 'SYSTEM VERSIONED') order by table_name)
+
+  at /usr/share/nginx/html/Admin-Panel-1.7.1/vendor/laravel/framework/src/Illuminate/Database/Connection.php:829
+
+   Illuminate\Database\QueryException 
+
+  SQLSTATE[HY000] [2002] Connection refused (Connection: mysql, SQL: select table_name as `name`, (data_length + index_length) as `size`, table_comment as `comment`, engine as `engine`, table_collation as `collation` from information_schema.tables where table_schema = 'all-in-one' and table_type in ('BASE TABLE', 'SYSTEM VERSIONED') order by table_name)
+
+  at /usr/share/nginx/html/Admin-Panel-1.7.1/vendor/laravel/framework/src/Illuminate/Database/Connection.php:829
+    825▕                     $this->getName(), $query, $this->prepareBindings($bindings), $e
+    826▕                 );
+    827▕             }
+    828▕ 
+  ➜ 829▕             throw new QueryException(
+    830▕                 $this->getName(), $query, $this->prepareBindings($bindings), $e
+    831▕             );
+    832▕         }
+    833▕     }
+
+
+   Illuminate\Database\QueryException 
+
+  SQLSTATE[HY000] [2002] Connection refused (Connection: mysql, SQL: select table_name as `name`, (data_length + index_length) as `size`, table_comment as `comment`, engine as `engine`, table_collation as `collation` from information_schema.tables where table_schema = 'all-in-one' and table_type in ('BASE TABLE', 'SYSTEM VERSIONED') order by table_name)
+
+  at /usr/share/nginx/html/Admin-Panel-1.7.1/vendor/laravel/framework/src/Illuminate/Database/Connection.php:829
+   Illuminate\Database\QueryException 
+
+  SQLSTATE[HY000] [2002] Connection refused (Connection: mysql, SQL: select table_name as `name`, (data_length + index_length) as `size`, table_comment as `comment`, engine as `engine`, table_collation as `collation` from information_schema.tables where table_schema = 'all-in-one' and table_type in ('BASE TABLE', 'SYSTEM VERSIONED') order by table_name)
+
+  at /usr/share/nginx/html/Admin-Panel-1.7.1/vendor/laravel/framework/src/Illuminate/Database/Connection.php:829
+    825▕                     $this->getName(), $query, $this->prepareBindings($bindings), $e
+    826▕                 );
+    827▕             }
+    828▕ 
+  ➜ 829▕             throw new QueryException(
+    830▕                 $this->getName(), $query, $this->prepareBindings($bindings), $e
+    831▕             );
+    832▕         }
+    833▕     }
+
+  1   [internal]:0
+      Illuminate\Foundation\Application::Illuminate\Foundation\{closure}()
+      [2m+19 vendor frames [22m
+
+  21  /usr/share/nginx/html/Admin-Panel-1.7.1/app/Providers/AppServiceProvider.php:51
+      Illuminate\Support\Facades\Facade::__callStatic()
+
+
+
+   Illuminate\Database\QueryException 
+
+  SQLSTATE[HY000] [2002] Connection refused (Connection: mysql, SQL: select table_name as `name`, (data_length + index_length) as `size`, table_comment as `comment`, engine as `engine`, table_collation as `collation` from information_schema.tables where table_schema = 'all-in-one' and table_type in ('BASE TABLE', 'SYSTEM VERSIONED') order by table_name)
+  1   [internal]:0
+      Illuminate\Foundation\Application::Illuminate\Foundation\{closure}()
+      [2m+19 vendor frames [22m
+
+  at /usr/share/nginx/html/Admin-Panel-1.7.1/vendor/laravel/framework/src/Illuminate/Database/Connection.php:829
+
+  21  /usr/share/nginx/html/Admin-Panel-1.7.1/app/Providers/AppServiceProvider.php:51
+      Illuminate\Support\Facades\Facade::__callStatic()
+
+
+   Illuminate\Database\QueryException 
+
+  SQLSTATE[HY000] [2002] Connection refused (Connection: mysql, SQL: select table_name as `name`, (data_length + index_length) as `size`, table_comment as `comment`, engine as `engine`, table_collation as `collation` from information_schema.tables where table_schema = 'all-in-one' and table_type in ('BASE TABLE', 'SYSTEM VERSIONED') order by table_name)
+
+  at /usr/share/nginx/html/Admin-Panel-1.7.1/vendor/laravel/framework/src/Illuminate/Database/Connection.php:829
+    825▕                     $this->getName(), $query, $this->prepareBindings($bindings), $e
+    826▕                 );
+    827▕             }
+    828▕ 
+  ➜ 829▕             throw new QueryException(
+    830▕                 $this->getName(), $query, $this->prepareBindings($bindings), $e
+    831▕             );
+    832▕         }
+    833▕     }
+
+  1   [internal]:0
+      Illuminate\Foundation\Application::Illuminate\Foundation\{closure}()
+      [2m+19 vendor frames [22m
+
+  21  /usr/share/nginx/html/Admin-Panel-1.7.1/app/Providers/AppServiceProvider.php:51
+      Illuminate\Support\Facades\Facade::__callStatic()
+
+    825▕                     $this->getName(), $query, $this->prepareBindings($bindings), $e
+    826▕                 );
+    827▕             }
+    828▕ 
+  ➜ 829▕             throw new QueryException(
+    830▕                 $this->getName(), $query, $this->prepareBindings($bindings), $e
+    831▕             );
+    832▕         }
+    833▕     }
+
+    825▕                     $this->getName(), $query, $this->prepareBindings($bindings), $e
+    826▕                 );
+    827▕             }
+    828▕ 
+  ➜ 829▕             throw new QueryException(
+    830▕                 $this->getName(), $query, $this->prepareBindings($bindings), $e
+    831▕             );
+    832▕         }
+    833▕     }
+  1   [internal]:0
+      Illuminate\Foundation\Application::Illuminate\Foundation\{closure}()
+      [2m+19 vendor frames [22m
+
+  21  /usr/share/nginx/html/Admin-Panel-1.7.1/app/Providers/AppServiceProvider.php:51
+      Illuminate\Support\Facades\Facade::__callStatic()
+
+
+  1   [internal]:0
+      Illuminate\Foundation\Application::Illuminate\Foundation\{closure}()
+      [2m+19 vendor frames [22m
+
+  21  /usr/share/nginx/html/Admin-Panel-1.7.1/app/Providers/AppServiceProvider.php:51
+      Illuminate\Support\Facades\Facade::__callStatic()
+
+    825▕                     $this->getName(), $query, $this->prepareBindings($bindings), $e
+    826▕                 );
+    827▕             }
+    828▕ 
+  ➜ 829▕             throw new QueryException(
+    830▕                 $this->getName(), $query, $this->prepareBindings($bindings), $e
+    831▕             );
+    832▕         }
+    833▕     }
+
+  1   [internal]:0
+      Illuminate\Foundation\Application::Illuminate\Foundation\{closure}()
+      [2m+19 vendor frames [22m
+
+  21  /usr/share/nginx/html/Admin-Panel-1.7.1/app/Providers/AppServiceProvider.php:51
+      Illuminate\Support\Facades\Facade::__callStatic()
+
+
+   Illuminate\Database\QueryException 
+
+  SQLSTATE[HY000] [2002] Connection refused (Connection: mysql, SQL: select table_name as `name`, (data_length + index_length) as `size`, table_comment as `comment`, engine as `engine`, table_collation as `collation` from information_schema.tables where table_schema = 'all-in-one' and table_type in ('BASE TABLE', 'SYSTEM VERSIONED') order by table_name)
+
+  at /usr/share/nginx/html/Admin-Panel-1.7.1/vendor/laravel/framework/src/Illuminate/Database/Connection.php:829
+
+   Illuminate\Database\QueryException 
+
+  SQLSTATE[HY000] [2002] Connection refused (Connection: mysql, SQL: select table_name as `name`, (data_length + index_length) as `size`, table_comment as `comment`, engine as `engine`, table_collation as `collation` from information_schema.tables where table_schema = 'all-in-one' and table_type in ('BASE TABLE', 'SYSTEM VERSIONED') order by table_name)
+
+  at /usr/share/nginx/html/Admin-Panel-1.7.1/vendor/laravel/framework/src/Illuminate/Database/Connection.php:829
+
+   Illuminate\Database\QueryException 
+
+  SQLSTATE[HY000] [2002] Connection refused (Connection: mysql, SQL: select table_name as `name`, (data_length + index_length) as `size`, table_comment as `comment`, engine as `engine`, table_collation as `collation` from information_schema.tables where table_schema = 'all-in-one' and table_type in ('BASE TABLE', 'SYSTEM VERSIONED') order by table_name)
+
+  at /usr/share/nginx/html/Admin-Panel-1.7.1/vendor/laravel/framework/src/Illuminate/Database/Connection.php:829
+
+   Illuminate\Database\QueryException 
+
+  SQLSTATE[HY000] [2002] Connection refused (Connection: mysql, SQL: select table_name as `name`, (data_length + index_length) as `size`, table_comment as `comment`, engine as `engine`, table_collation as `collation` from information_schema.tables where table_schema = 'all-in-one' and table_type in ('BASE TABLE', 'SYSTEM VERSIONED') order by table_name)
+
+  at /usr/share/nginx/html/Admin-Panel-1.7.1/vendor/laravel/framework/src/Illuminate/Database/Connection.php:829
+
+   Illuminate\Database\QueryException 
+
+  SQLSTATE[HY000] [2002] Connection refused (Connection: mysql, SQL: select table_name as `name`, (data_length + index_length) as `size`, table_comment as `comment`, engine as `engine`, table_collation as `collation` from information_schema.tables where table_schema = 'all-in-one' and table_type in ('BASE TABLE', 'SYSTEM VERSIONED') order by table_name)
+
+  at /usr/share/nginx/html/Admin-Panel-1.7.1/vendor/laravel/framework/src/Illuminate/Database/Connection.php:829
+
+   Illuminate\Database\QueryException 
+
+  SQLSTATE[HY000] [2002] Connection refused (Connection: mysql, SQL: select table_name as `name`, (data_length + index_length) as `size`, table_comment as `comment`, engine as `engine`, table_collation as `collation` from information_schema.tables where table_schema = 'all-in-one' and table_type in ('BASE TABLE', 'SYSTEM VERSIONED') order by table_name)
+
+  at /usr/share/nginx/html/Admin-Panel-1.7.1/vendor/laravel/framework/src/Illuminate/Database/Connection.php:829
+    825▕                     $this->getName(), $query, $this->prepareBindings($bindings), $e
+    826▕                 );
+    827▕             }
+    828▕ 
+  ➜ 829▕             throw new QueryException(
+    830▕                 $this->getName(), $query, $this->prepareBindings($bindings), $e
+    831▕             );
+    832▕         }
+    833▕     }
+
+  1   [internal]:0
+      Illuminate\Foundation\Application::Illuminate\Foundation\{closure}()
+      [2m+19 vendor frames [22m
+
+  21  /usr/share/nginx/html/Admin-Panel-1.7.1/app/Providers/AppServiceProvider.php:51
+      Illuminate\Support\Facades\Facade::__callStatic()
+
+
+   Illuminate\Database\QueryException 
+
+  SQLSTATE[HY000] [2002] Connection refused (Connection: mysql, SQL: select table_name as `name`, (data_length + index_length) as `size`, table_comment as `comment`, engine as `engine`, table_collation as `collation` from information_schema.tables where table_schema = 'all-in-one' and table_type in ('BASE TABLE', 'SYSTEM VERSIONED') order by table_name)
+
+  at /usr/share/nginx/html/Admin-Panel-1.7.1/vendor/laravel/framework/src/Illuminate/Database/Connection.php:829
+    825▕                     $this->getName(), $query, $this->prepareBindings($bindings), $e
+    826▕                 );
+    827▕             }
+    828▕ 
+  ➜ 829▕             throw new QueryException(
+    830▕                 $this->getName(), $query, $this->prepareBindings($bindings), $e
+    831▕             );
+    832▕         }
+    833▕     }
+
+  1   [internal]:0
+      Illuminate\Foundation\Application::Illuminate\Foundation\{closure}()
+      [2m+19 vendor frames [22m
+
+  21  /usr/share/nginx/html/Admin-Panel-1.7.1/app/Providers/AppServiceProvider.php:51
+      Illuminate\Support\Facades\Facade::__callStatic()
+
+
+   Illuminate\Database\QueryException 
+
+  SQLSTATE[HY000] [2002] Connection refused (Connection: mysql, SQL: select table_name as `name`, (data_length + index_length) as `size`, table_comment as `comment`, engine as `engine`, table_collation as `collation` from information_schema.tables where table_schema = 'all-in-one' and table_type in ('BASE TABLE', 'SYSTEM VERSIONED') order by table_name)
+
+  at /usr/share/nginx/html/Admin-Panel-1.7.1/vendor/laravel/framework/src/Illuminate/Database/Connection.php:829
+    825▕                     $this->getName(), $query, $this->prepareBindings($bindings), $e
+    826▕                 );
+    827▕             }
+    828▕ 
+  ➜ 829▕             throw new QueryException(
+    830▕                 $this->getName(), $query, $this->prepareBindings($bindings), $e
+    831▕             );
+    832▕         }
+    833▕     }
+
+  1   [internal]:0
+      Illuminate\Foundation\Application::Illuminate\Foundation\{closure}()
+      [2m+19 vendor frames [22m
+
+  21  /usr/share/nginx/html/Admin-Panel-1.7.1/app/Providers/AppServiceProvider.php:51
+      Illuminate\Support\Facades\Facade::__callStatic()
+
+    825▕                     $this->getName(), $query, $this->prepareBindings($bindings), $e
+    826▕                 );
+    827▕             }
+    828▕ 
+  ➜ 829▕             throw new QueryException(
+    830▕                 $this->getName(), $query, $this->prepareBindings($bindings), $e
+    831▕             );
+    832▕         }
+    833▕     }
+
+    825▕                     $this->getName(), $query, $this->prepareBindings($bindings), $e
+    826▕                 );
+    827▕             }
+    828▕ 
+  ➜ 829▕             throw new QueryException(
+    830▕                 $this->getName(), $query, $this->prepareBindings($bindings), $e
+    831▕             );
+    832▕         }
+    833▕     }
+
+  1   [internal]:0
+      Illuminate\Foundation\Application::Illuminate\Foundation\{closure}()
+      [2m+19 vendor frames [22m
+
+  21  /usr/share/nginx/html/Admin-Panel-1.7.1/app/Providers/AppServiceProvider.php:51
+      Illuminate\Support\Facades\Facade::__callStatic()
+
+  1   [internal]:0
+      Illuminate\Foundation\Application::Illuminate\Foundation\{closure}()
+      [2m+19 vendor frames [22m
+
+  21  /usr/share/nginx/html/Admin-Panel-1.7.1/app/Providers/AppServiceProvider.php:51
+      Illuminate\Support\Facades\Facade::__callStatic()
+
+    825▕                     $this->getName(), $query, $this->prepareBindings($bindings), $e
+    826▕                 );
+    827▕             }
+    828▕ 
+  ➜ 829▕             throw new QueryException(
+    830▕                 $this->getName(), $query, $this->prepareBindings($bindings), $e
+    831▕             );
+    832▕         }
+    833▕     }
+
+  1   [internal]:0
+      Illuminate\Foundation\Application::Illuminate\Foundation\{closure}()
+      [2m+19 vendor frames [22m
+
+  21  /usr/share/nginx/html/Admin-Panel-1.7.1/app/Providers/AppServiceProvider.php:51
+      Illuminate\Support\Facades\Facade::__callStatic()
+
+    825▕                     $this->getName(), $query, $this->prepareBindings($bindings), $e
+    826▕                 );
+    827▕             }
+    828▕ 
+  ➜ 829▕             throw new QueryException(
+    830▕                 $this->getName(), $query, $this->prepareBindings($bindings), $e
+    831▕             );
+    832▕         }
+    833▕     }
+
+  1   [internal]:0
+      Illuminate\Foundation\Application::Illuminate\Foundation\{closure}()
+      [2m+19 vendor frames [22m
+
+  21  /usr/share/nginx/html/Admin-Panel-1.7.1/app/Providers/AppServiceProvider.php:51
+      Illuminate\Support\Facades\Facade::__callStatic()
+
+    825▕                     $this->getName(), $query, $this->prepareBindings($bindings), $e
+    826▕                 );
+    827▕             }
+    828▕ 
+  ➜ 829▕             throw new QueryException(
+    830▕                 $this->getName(), $query, $this->prepareBindings($bindings), $e
+    831▕             );
+    832▕         }
+    833▕     }
+
+  1   [internal]:0
+      Illuminate\Foundation\Application::Illuminate\Foundation\{closure}()
+      [2m+19 vendor frames [22m
+
+  21  /usr/share/nginx/html/Admin-Panel-1.7.1/app/Providers/AppServiceProvider.php:51
+      Illuminate\Support\Facades\Facade::__callStatic()
+
+
+   Illuminate\Database\QueryException 
+
+  SQLSTATE[HY000] [2002] Connection refused (Connection: mysql, SQL: select table_name as `name`, (data_length + index_length) as `size`, table_comment as `comment`, engine as `engine`, table_collation as `collation` from information_schema.tables where table_schema = 'all-in-one' and table_type in ('BASE TABLE', 'SYSTEM VERSIONED') order by table_name)
+
+  at /usr/share/nginx/html/Admin-Panel-1.7.1/vendor/laravel/framework/src/Illuminate/Database/Connection.php:829
+    825▕                     $this->getName(), $query, $this->prepareBindings($bindings), $e
+    826▕                 );
+    827▕             }
+    828▕ 
+  ➜ 829▕             throw new QueryException(
+    830▕                 $this->getName(), $query, $this->prepareBindings($bindings), $e
+    831▕             );
+    832▕         }
+    833▕     }
+
+  1   [internal]:0
+      Illuminate\Foundation\Application::Illuminate\Foundation\{closure}()
+      [2m+19 vendor frames [22m
+
+  21  /usr/share/nginx/html/Admin-Panel-1.7.1/app/Providers/AppServiceProvider.php:51
+      Illuminate\Support\Facades\Facade::__callStatic()
+
+
+   Illuminate\Database\QueryException 
+
+  SQLSTATE[HY000] [2002] Connection refused (Connection: mysql, SQL: select table_name as `name`, (data_length + index_length) as `size`, table_comment as `comment`, engine as `engine`, table_collation as `collation` from information_schema.tables where table_schema = 'all-in-one' and table_type in ('BASE TABLE', 'SYSTEM VERSIONED') order by table_name)
+
+  at /usr/share/nginx/html/Admin-Panel-1.7.1/vendor/laravel/framework/src/Illuminate/Database/Connection.php:829
+
+   Illuminate\Database\QueryException 
+
+  SQLSTATE[HY000] [2002] Connection refused (Connection: mysql, SQL: select table_name as `name`, (data_length + index_length) as `size`, table_comment as `comment`, engine as `engine`, table_collation as `collation` from information_schema.tables where table_schema = 'all-in-one' and table_type in ('BASE TABLE', 'SYSTEM VERSIONED') order by table_name)
+
+  at /usr/share/nginx/html/Admin-Panel-1.7.1/vendor/laravel/framework/src/Illuminate/Database/Connection.php:829
+    825▕                     $this->getName(), $query, $this->prepareBindings($bindings), $e
+    826▕                 );
+    827▕             }
+    828▕ 
+  ➜ 829▕             throw new QueryException(
+    830▕                 $this->getName(), $query, $this->prepareBindings($bindings), $e
+    831▕             );
+    832▕         }
+    833▕     }
+
+  1   [internal]:0
+      Illuminate\Foundation\Application::Illuminate\Foundation\{closure}()
+      [2m+19 vendor frames [22m
+
+  21  /usr/share/nginx/html/Admin-Panel-1.7.1/app/Providers/AppServiceProvider.php:51
+      Illuminate\Support\Facades\Facade::__callStatic()
+
+    825▕                     $this->getName(), $query, $this->prepareBindings($bindings), $e
+    826▕                 );
+    827▕             }
+    828▕ 
+  ➜ 829▕             throw new QueryException(
+    830▕                 $this->getName(), $query, $this->prepareBindings($bindings), $e
+    831▕             );
+    832▕         }
+    833▕     }
+
+  1   [internal]:0
+      Illuminate\Foundation\Application::Illuminate\Foundation\{closure}()
+      [2m+19 vendor frames [22m
+
+  21  /usr/share/nginx/html/Admin-Panel-1.7.1/app/Providers/AppServiceProvider.php:51
+      Illuminate\Support\Facades\Facade::__callStatic()
+
+
+   Illuminate\Database\QueryException 
+
+  SQLSTATE[HY000] [2002] Connection refused (Connection: mysql, SQL: select table_name as `name`, (data_length + index_length) as `size`, table_comment as `comment`, engine as `engine`, table_collation as `collation` from information_schema.tables where table_schema = 'all-in-one' and table_type in ('BASE TABLE', 'SYSTEM VERSIONED') order by table_name)
+
+  at /usr/share/nginx/html/Admin-Panel-1.7.1/vendor/laravel/framework/src/Illuminate/Database/Connection.php:829
+    825▕                     $this->getName(), $query, $this->prepareBindings($bindings), $e
+    826▕                 );
+    827▕             }
+    828▕ 
+  ➜ 829▕             throw new QueryException(
+    830▕                 $this->getName(), $query, $this->prepareBindings($bindings), $e
+    831▕             );
+    832▕         }
+    833▕     }
+
+  1   [internal]:0
+      Illuminate\Foundation\Application::Illuminate\Foundation\{closure}()
+      [2m+19 vendor frames [22m
+
+  21  /usr/share/nginx/html/Admin-Panel-1.7.1/app/Providers/AppServiceProvider.php:51
+      Illuminate\Support\Facades\Facade::__callStatic()
+
+
+   Illuminate\Database\QueryException 
+
+  SQLSTATE[HY000] [2002] Connection refused (Connection: mysql, SQL: select table_name as `name`, (data_length + index_length) as `size`, table_comment as `comment`, engine as `engine`, table_collation as `collation` from information_schema.tables where table_schema = 'all-in-one' and table_type in ('BASE TABLE', 'SYSTEM VERSIONED') order by table_name)
+
+  at /usr/share/nginx/html/Admin-Panel-1.7.1/vendor/laravel/framework/src/Illuminate/Database/Connection.php:829
+    825▕                     $this->getName(), $query, $this->prepareBindings($bindings), $e
+    826▕                 );
+    827▕             }
+    828▕ 
+  ➜ 829▕             throw new QueryException(
+    830▕                 $this->getName(), $query, $this->prepareBindings($bindings), $e
+    831▕             );
+    832▕         }
+    833▕     }
+
+  1   [internal]:0
+      Illuminate\Foundation\Application::Illuminate\Foundation\{closure}()
+      [2m+19 vendor frames [22m
+
+  21  /usr/share/nginx/html/Admin-Panel-1.7.1/app/Providers/AppServiceProvider.php:51
+      Illuminate\Support\Facades\Facade::__callStatic()
+
+
+   Illuminate\Database\QueryException 
+
+  SQLSTATE[HY000] [2002] Connection refused (Connection: mysql, SQL: select table_name as `name`, (data_length + index_length) as `size`, table_comment as `comment`, engine as `engine`, table_collation as `collation` from information_schema.tables where table_schema = 'all-in-one' and table_type in ('BASE TABLE', 'SYSTEM VERSIONED') order by table_name)
+
+  at /usr/share/nginx/html/Admin-Panel-1.7.1/vendor/laravel/framework/src/Illuminate/Database/Connection.php:829
+    825▕                     $this->getName(), $query, $this->prepareBindings($bindings), $e
+    826▕                 );
+    827▕             }
+    828▕ 
+  ➜ 829▕             throw new QueryException(
+    830▕                 $this->getName(), $query, $this->prepareBindings($bindings), $e
+    831▕             );
+    832▕         }
+    833▕     }
+
+  1   [internal]:0
+      Illuminate\Foundation\Application::Illuminate\Foundation\{closure}()
+      [2m+19 vendor frames [22m
+
+  21  /usr/share/nginx/html/Admin-Panel-1.7.1/app/Providers/AppServiceProvider.php:51
+      Illuminate\Support\Facades\Facade::__callStatic()
+
+
+   Illuminate\Database\QueryException 
+
+  SQLSTATE[HY000] [2002] Connection refused (Connection: mysql, SQL: select table_name as `name`, (data_length + index_length) as `size`, table_comment as `comment`, engine as `engine`, table_collation as `collation` from information_schema.tables where table_schema = 'all-in-one' and table_type in ('BASE TABLE', 'SYSTEM VERSIONED') order by table_name)
+
+  at /usr/share/nginx/html/Admin-Panel-1.7.1/vendor/laravel/framework/src/Illuminate/Database/Connection.php:829
+    825▕                     $this->getName(), $query, $this->prepareBindings($bindings), $e
+    826▕                 );
+    827▕             }
+    828▕ 
+  ➜ 829▕             throw new QueryException(
+    830▕                 $this->getName(), $query, $this->prepareBindings($bindings), $e
+    831▕             );
+    832▕         }
+    833▕     }
+
+  1   [internal]:0
+      Illuminate\Foundation\Application::Illuminate\Foundation\{closure}()
+      [2m+19 vendor frames [22m
+
+  21  /usr/share/nginx/html/Admin-Panel-1.7.1/app/Providers/AppServiceProvider.php:51
+      Illuminate\Support\Facades\Facade::__callStatic()
+
+
+   Illuminate\Database\QueryException 
+
+  SQLSTATE[HY000] [2002] Connection refused (Connection: mysql, SQL: select table_name as `name`, (data_length + index_length) as `size`, table_comment as `comment`, engine as `engine`, table_collation as `collation` from information_schema.tables where table_schema = 'all-in-one' and table_type in ('BASE TABLE', 'SYSTEM VERSIONED') order by table_name)
+
+  at /usr/share/nginx/html/Admin-Panel-1.7.1/vendor/laravel/framework/src/Illuminate/Database/Connection.php:829
+
+   Illuminate\Database\QueryException 
+
+  SQLSTATE[HY000] [2002] Connection refused (Connection: mysql, SQL: select table_name as `name`, (data_length + index_length) as `size`, table_comment as `comment`, engine as `engine`, table_collation as `collation` from information_schema.tables where table_schema = 'all-in-one' and table_type in ('BASE TABLE', 'SYSTEM VERSIONED') order by table_name)
+
+  at /usr/share/nginx/html/Admin-Panel-1.7.1/vendor/laravel/framework/src/Illuminate/Database/Connection.php:829
+    825▕                     $this->getName(), $query, $this->prepareBindings($bindings), $e
+    826▕                 );
+    827▕             }
+    828▕ 
+  ➜ 829▕             throw new QueryException(
+    830▕                 $this->getName(), $query, $this->prepareBindings($bindings), $e
+    831▕             );
+    832▕         }
+    833▕     }
+
+  1   [internal]:0
+      Illuminate\Foundation\Application::Illuminate\Foundation\{closure}()
+      [2m+19 vendor frames [22m
+
+  21  /usr/share/nginx/html/Admin-Panel-1.7.1/app/Providers/AppServiceProvider.php:51
+      Illuminate\Support\Facades\Facade::__callStatic()
+
+
+   Illuminate\Database\QueryException 
+
+  SQLSTATE[HY000] [2002] Connection refused (Connection: mysql, SQL: select table_name as `name`, (data_length + index_length) as `size`, table_comment as `comment`, engine as `engine`, table_collation as `collation` from information_schema.tables where table_schema = 'all-in-one' and table_type in ('BASE TABLE', 'SYSTEM VERSIONED') order by table_name)
+
+  at /usr/share/nginx/html/Admin-Panel-1.7.1/vendor/laravel/framework/src/Illuminate/Database/Connection.php:829
+    825▕                     $this->getName(), $query, $this->prepareBindings($bindings), $e
+    826▕                 );
+    827▕             }
+    828▕ 
+  ➜ 829▕             throw new QueryException(
+    830▕                 $this->getName(), $query, $this->prepareBindings($bindings), $e
+    831▕             );
+    832▕         }
+    833▕     }
+
+  1   [internal]:0
+      Illuminate\Foundation\Application::Illuminate\Foundation\{closure}()
+      [2m+19 vendor frames [22m
+
+  21  /usr/share/nginx/html/Admin-Panel-1.7.1/app/Providers/AppServiceProvider.php:51
+      Illuminate\Support\Facades\Facade::__callStatic()
+
+    825▕                     $this->getName(), $query, $this->prepareBindings($bindings), $e
+    826▕                 );
+    827▕             }
+    828▕ 
+  ➜ 829▕             throw new QueryException(
+    830▕                 $this->getName(), $query, $this->prepareBindings($bindings), $e
+    831▕             );
+    832▕         }
+    833▕     }
+
+  1   [internal]:0
+      Illuminate\Foundation\Application::Illuminate\Foundation\{closure}()
+      [2m+19 vendor frames [22m
+
+  21  /usr/share/nginx/html/Admin-Panel-1.7.1/app/Providers/AppServiceProvider.php:51
+      Illuminate\Support\Facades\Facade::__callStatic()
+
+
+   Illuminate\Database\QueryException 
+
+  SQLSTATE[HY000] [2002] Connection refused (Connection: mysql, SQL: select table_name as `name`, (data_length + index_length) as `size`, table_comment as `comment`, engine as `engine`, table_collation as `collation` from information_schema.tables where table_schema = 'all-in-one' and table_type in ('BASE TABLE', 'SYSTEM VERSIONED') order by table_name)
+
+  at /usr/share/nginx/html/Admin-Panel-1.7.1/vendor/laravel/framework/src/Illuminate/Database/Connection.php:829
+    825▕                     $this->getName(), $query, $this->prepareBindings($bindings), $e
+    826▕                 );
+    827▕             }
+    828▕ 
+  ➜ 829▕             throw new QueryException(
+    830▕                 $this->getName(), $query, $this->prepareBindings($bindings), $e
+    831▕             );
+    832▕         }
+    833▕     }
+
+  1   [internal]:0
+      Illuminate\Foundation\Application::Illuminate\Foundation\{closure}()
+      [2m+19 vendor frames [22m
+
+  21  /usr/share/nginx/html/Admin-Panel-1.7.1/app/Providers/AppServiceProvider.php:51
+      Illuminate\Support\Facades\Facade::__callStatic()
+
+
+   Illuminate\Database\QueryException 
+
+  SQLSTATE[HY000] [2002] Connection refused (Connection: mysql, SQL: select table_name as `name`, (data_length + index_length) as `size`, table_comment as `comment`, engine as `engine`, table_collation as `collation` from information_schema.tables where table_schema = 'all-in-one' and table_type in ('BASE TABLE', 'SYSTEM VERSIONED') order by table_name)
+
+  at /usr/share/nginx/html/Admin-Panel-1.7.1/vendor/laravel/framework/src/Illuminate/Database/Connection.php:829
+    825▕                     $this->getName(), $query, $this->prepareBindings($bindings), $e
+    826▕                 );
+    827▕             }
+    828▕ 
+  ➜ 829▕             throw new QueryException(
+    830▕                 $this->getName(), $query, $this->prepareBindings($bindings), $e
+    831▕             );
+    832▕         }
+    833▕     }
+
+  1   [internal]:0
+      Illuminate\Foundation\Application::Illuminate\Foundation\{closure}()
+      [2m+19 vendor frames [22m
+
+  21  /usr/share/nginx/html/Admin-Panel-1.7.1/app/Providers/AppServiceProvider.php:51
+      Illuminate\Support\Facades\Facade::__callStatic()
+
+
+   Illuminate\Database\QueryException 
+
+  SQLSTATE[HY000] [2002] Connection refused (Connection: mysql, SQL: select table_name as `name`, (data_length + index_length) as `size`, table_comment as `comment`, engine as `engine`, table_collation as `collation` from information_schema.tables where table_schema = 'all-in-one' and table_type in ('BASE TABLE', 'SYSTEM VERSIONED') order by table_name)
+
+  at /usr/share/nginx/html/Admin-Panel-1.7.1/vendor/laravel/framework/src/Illuminate/Database/Connection.php:829
+    825▕                     $this->getName(), $query, $this->prepareBindings($bindings), $e
+    826▕                 );
+    827▕             }
+    828▕ 
+  ➜ 829▕             throw new QueryException(
+    830▕                 $this->getName(), $query, $this->prepareBindings($bindings), $e
+    831▕             );
+    832▕         }
+    833▕     }
+
+  1   [internal]:0
+      Illuminate\Foundation\Application::Illuminate\Foundation\{closure}()
+      [2m+19 vendor frames [22m
+
+  21  /usr/share/nginx/html/Admin-Panel-1.7.1/app/Providers/AppServiceProvider.php:51
+      Illuminate\Support\Facades\Facade::__callStatic()
+
+
+   Illuminate\Database\QueryException 
+
+  SQLSTATE[HY000] [2002] Connection refused (Connection: mysql, SQL: select table_name as `name`, (data_length + index_length) as `size`, table_comment as `comment`, engine as `engine`, table_collation as `collation` from information_schema.tables where table_schema = 'all-in-one' and table_type in ('BASE TABLE', 'SYSTEM VERSIONED') order by table_name)
+
+  at /usr/share/nginx/html/Admin-Panel-1.7.1/vendor/laravel/framework/src/Illuminate/Database/Connection.php:829
+    825▕                     $this->getName(), $query, $this->prepareBindings($bindings), $e
+    826▕                 );
+    827▕             }
+    828▕ 
+  ➜ 829▕             throw new QueryException(
+    830▕                 $this->getName(), $query, $this->prepareBindings($bindings), $e
+    831▕             );
+    832▕         }
+    833▕     }
+
+  1   [internal]:0
+      Illuminate\Foundation\Application::Illuminate\Foundation\{closure}()
+      [2m+19 vendor frames [22m
+
+  21  /usr/share/nginx/html/Admin-Panel-1.7.1/app/Providers/AppServiceProvider.php:51
+      Illuminate\Support\Facades\Facade::__callStatic()
+
+
+   Illuminate\Database\QueryException 
+
+  SQLSTATE[HY000] [2002] Connection refused (Connection: mysql, SQL: select table_name as `name`, (data_length + index_length) as `size`, table_comment as `comment`, engine as `engine`, table_collation as `collation` from information_schema.tables where table_schema = 'all-in-one' and table_type in ('BASE TABLE', 'SYSTEM VERSIONED') order by table_name)
+
+  at /usr/share/nginx/html/Admin-Panel-1.7.1/vendor/laravel/framework/src/Illuminate/Database/Connection.php:829
+    825▕                     $this->getName(), $query, $this->prepareBindings($bindings), $e
+    826▕                 );
+    827▕             }
+    828▕ 
+  ➜ 829▕             throw new QueryException(
+    830▕                 $this->getName(), $query, $this->prepareBindings($bindings), $e
+    831▕             );
+    832▕         }
+    833▕     }
+
+  1   [internal]:0
+      Illuminate\Foundation\Application::Illuminate\Foundation\{closure}()
+      [2m+19 vendor frames [22m
+
+  21  /usr/share/nginx/html/Admin-Panel-1.7.1/app/Providers/AppServiceProvider.php:51
+      Illuminate\Support\Facades\Facade::__callStatic()
+
+
+   Illuminate\Database\QueryException 
+
+  SQLSTATE[HY000] [2002] Connection refused (Connection: mysql, SQL: select table_name as `name`, (data_length + index_length) as `size`, table_comment as `comment`, engine as `engine`, table_collation as `collation` from information_schema.tables where table_schema = 'all-in-one' and table_type in ('BASE TABLE', 'SYSTEM VERSIONED') order by table_name)
+
+  at /usr/share/nginx/html/Admin-Panel-1.7.1/vendor/laravel/framework/src/Illuminate/Database/Connection.php:829
+
+   Illuminate\Database\QueryException 
+
+  SQLSTATE[HY000] [2002] Connection refused (Connection: mysql, SQL: select table_name as `name`, (data_length + index_length) as `size`, table_comment as `comment`, engine as `engine`, table_collation as `collation` from information_schema.tables where table_schema = 'all-in-one' and table_type in ('BASE TABLE', 'SYSTEM VERSIONED') order by table_name)
+
+  at /usr/share/nginx/html/Admin-Panel-1.7.1/vendor/laravel/framework/src/Illuminate/Database/Connection.php:829
+    825▕                     $this->getName(), $query, $this->prepareBindings($bindings), $e
+    826▕                 );
+    827▕             }
+    828▕ 
+  ➜ 829▕             throw new QueryException(
+    830▕                 $this->getName(), $query, $this->prepareBindings($bindings), $e
+    831▕             );
+    832▕         }
+    833▕     }
+
+  1   [internal]:0
+      Illuminate\Foundation\Application::Illuminate\Foundation\{closure}()
+    825▕                     $this->getName(), $query, $this->prepareBindings($bindings), $e
+    826▕                 );
+    827▕             }
+    828▕ 
+  ➜ 829▕             throw new QueryException(
+    830▕                 $this->getName(), $query, $this->prepareBindings($bindings), $e
+    831▕             );
+    832▕         }
+    833▕     }
+
+      [2m+19 vendor frames [22m
+
+  1   [internal]:0
+  21  /usr/share/nginx/html/Admin-Panel-1.7.1/app/Providers/AppServiceProvider.php:51
+      Illuminate\Foundation\Application::Illuminate\Foundation\{closure}()
+      Illuminate\Support\Facades\Facade::__callStatic()
+
+      [2m+19 vendor frames [22m
+
+  21  /usr/share/nginx/html/Admin-Panel-1.7.1/app/Providers/AppServiceProvider.php:51
+      Illuminate\Support\Facades\Facade::__callStatic()
+

@@ -1,0 +1,28 @@
+User-agent: *
+Allow: /
+Disallow: /dashboard
+Disallow: /admin
+Disallow: /api/
+Disallow: /login/
+Disallow: /mi-admin
+Disallow: /mi-login
+Disallow: /profile
+Disallow: /history
+Disallow: /create-booking
+Disallow: /get-support
+Disallow: /track/
+Disallow: /paypal
+Disallow: /stripe
+Disallow: /flutterwave
+Disallow: /cashfree
+Disallow: /paystack
+Disallow: /khalti
+Disallow: /razorpay
+Disallow: /mercadopago
+Disallow: /paytech
+Disallow: /flexpaie
+Disallow: /ccavenue
+Disallow: /payphone
+Disallow: /easypaisa
+
+Sitemap:https://tisadrive.ng/sitemap.xml
